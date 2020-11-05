@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "412e73d87af814f38efdee4223377498",
+    "revision": "0a34e288fe5465bd1acc84a478cfe7d8",
     "url": "/sstl/index.html"
   },
   {
-    "revision": "f1adc9dbf862887a5724",
+    "revision": "a355d3b498ff83a518cc",
     "url": "/sstl/static/css/2.fd971cca.chunk.css"
   },
   {
-    "revision": "8a1675009166690f6509",
-    "url": "/sstl/static/css/main.098ec33b.chunk.css"
+    "revision": "c7ad38ca95ed3f681d16",
+    "url": "/sstl/static/css/main.1c8e71cc.chunk.css"
   },
   {
-    "revision": "f1adc9dbf862887a5724",
-    "url": "/sstl/static/js/2.c7cb1cb4.chunk.js"
+    "revision": "a355d3b498ff83a518cc",
+    "url": "/sstl/static/js/2.ed77ac9d.chunk.js"
   },
   {
     "revision": "c3cb654a3a7d27a576aed8d503b856d8",
-    "url": "/sstl/static/js/2.c7cb1cb4.chunk.js.LICENSE.txt"
+    "url": "/sstl/static/js/2.ed77ac9d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a1675009166690f6509",
-    "url": "/sstl/static/js/main.066dabad.chunk.js"
+    "revision": "c7ad38ca95ed3f681d16",
+    "url": "/sstl/static/js/main.fbf18529.chunk.js"
   },
   {
     "revision": "da47a9e580359569ad2d",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10966290abd3a41f609b4ef3c8c2bfc5",
     "url": "/sstl/static/media/76mm_aa_gun_3_50_mk_22.10966290.png"
+  },
+  {
+    "revision": "10966290abd3a41f609b4ef3c8c2bfc5",
+    "url": "/sstl/static/media/76mm_aa_gun_3quot50_mk_22.10966290.png"
   },
   {
     "revision": "a7fa99090c8d93c260f96d2c0f7ec684",
@@ -370,6 +374,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e791403609b4b8de48022dc870ff6b99",
     "url": "/sstl/static/media/alabamashipyardicon.e7914036.png"
+  },
+  {
+    "revision": "dedb399faacef7cbdda28ffdef1a6199",
+    "url": "/sstl/static/media/albacore µbanner.dedb399f.png"
+  },
+  {
+    "revision": "62207f4173b58080c72ea8338d68a633",
+    "url": "/sstl/static/media/albacore µicon.62207f41.png"
+  },
+  {
+    "revision": "47e7fb4ad1daef32595120e12f635c94",
+    "url": "/sstl/static/media/albacore µshipyardicon.47e7fb4a.png"
   },
   {
     "revision": "acd7128df3e4d17425bb3a9dcddcc9d8",
@@ -784,6 +800,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/baileyshipyardicon.c0414f8f.png"
   },
   {
+    "revision": "d3233d274a27d5aaa5e21cf350641787",
+    "url": "/sstl/static/media/baltimore µbanner.d3233d27.png"
+  },
+  {
+    "revision": "edfdd9297990cacea9ffafc561b21620",
+    "url": "/sstl/static/media/baltimore µicon.edfdd929.png"
+  },
+  {
+    "revision": "96f441848af085c7507aae57888efdb6",
+    "url": "/sstl/static/media/baltimore µshipyardicon.96f44184.png"
+  },
+  {
     "revision": "6234bddd86c08f6c141e7dfd8f395c07",
     "url": "/sstl/static/media/baltimorebanner.6234bddd.png"
   },
@@ -854,6 +882,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8afd7fb0373a291403b503a1f79d1698",
     "url": "/sstl/static/media/bensonshipyardicon.8afd7fb0.png"
+  },
+  {
+    "revision": "f446f329929be3a76f44d3562519d863",
+    "url": "/sstl/static/media/bf_1.f446f329.png"
+  },
+  {
+    "revision": "16281d7b65f5b8e2b903ab361051dd45",
+    "url": "/sstl/static/media/bf_2.16281d7b.png"
+  },
+  {
+    "revision": "eff0fb4567d3b5aef0e107cac382931c",
+    "url": "/sstl/static/media/bf_3.eff0fb45.png"
+  },
+  {
+    "revision": "fe3b9349cbcd7740d54c0089612c4bcb",
+    "url": "/sstl/static/media/bf_4.fe3b9349.png"
+  },
+  {
+    "revision": "1785aa3f1404d3bdbd774be1e046fde3",
+    "url": "/sstl/static/media/bf_5.1785aa3f.png"
+  },
+  {
+    "revision": "8b4a91cd22b737f4a6985307b5f08cef",
+    "url": "/sstl/static/media/bf_6.8b4a91cd.jpg"
   },
   {
     "revision": "4b2013a7887a944e821674903830242f",
@@ -1130,6 +1182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4930dc2eb432709dc68b45536d2c5f75",
     "url": "/sstl/static/media/cay_pvp_score_table.4930dc2e.png"
+  },
+  {
+    "revision": "29b4a33f98d89956e17a903b2e9618fd",
+    "url": "/sstl/static/media/celestial_body.29b4a33f.png"
   },
   {
     "revision": "06d04674d2debabec2541debb9ab877b",
@@ -1558,6 +1614,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fe533acde93e308b332de9a25d652f33",
     "url": "/sstl/static/media/deweyshipyardicon.fe533acd.png"
+  },
+  {
+    "revision": "8fcd375b22e1efe0151d9e85059a76f3",
+    "url": "/sstl/static/media/dido µbanner.8fcd375b.png"
+  },
+  {
+    "revision": "25713789b97cf0c397abd8c80843b2fd",
+    "url": "/sstl/static/media/dido µicon.25713789.png"
+  },
+  {
+    "revision": "91f9485ed171b78427e31e4e9e9f569e",
+    "url": "/sstl/static/media/dido µshipyardicon.91f9485e.png"
   },
   {
     "revision": "a78ee1387e88122a55178408c317801c",
@@ -2944,6 +3012,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/ikazuchishipyardicon.9a3eb961.png"
   },
   {
+    "revision": "65e522dfe3a04798b168d63c1e1fdd0d",
+    "url": "/sstl/static/media/illustrious µbanner.65e522df.png"
+  },
+  {
+    "revision": "f260ddf9c8202d0a1f41bf1edafea15a",
+    "url": "/sstl/static/media/illustrious µicon.f260ddf9.png"
+  },
+  {
+    "revision": "f4cc5aa4e3848aacc019e0e39866036c",
+    "url": "/sstl/static/media/illustrious µshipyardicon.f4cc5aa4.png"
+  },
+  {
     "revision": "7cad0d0c414f95c4a356c1c98b1a1977",
     "url": "/sstl/static/media/illustriousbanner.7cad0d0c.png"
   },
@@ -3764,6 +3844,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/langleyshipyardicon.5bfee61f.png"
   },
   {
+    "revision": "2f9161f632b27d0823b69da655440f1b",
+    "url": "/sstl/static/media/launch_cd.2f9161f6.png"
+  },
+  {
+    "revision": "b3cfee4d0e74f1e44a93c16c649a2de2",
+    "url": "/sstl/static/media/le malin µbanner.b3cfee4d.png"
+  },
+  {
+    "revision": "0205873de106e1ae347b9c77f4d0caf4",
+    "url": "/sstl/static/media/le malin µicon.0205873d.png"
+  },
+  {
+    "revision": "fe954e1d1b6f94d7a315e1bbc05ec419",
+    "url": "/sstl/static/media/le malin µshipyardicon.fe954e1d.png"
+  },
+  {
     "revision": "8a759d7108de477e0b5cfcf81777ece2",
     "url": "/sstl/static/media/le malinbanner.8a759d71.png"
   },
@@ -4162,6 +4258,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8237deaa0ff119861e94bb87fbc9666a",
     "url": "/sstl/static/media/messerschmitt_bf109t.8237deaa.png"
+  },
+  {
+    "revision": "f988915e477faf5ddead2fa9c1edefcf",
+    "url": "/sstl/static/media/mf_1.f988915e.png"
+  },
+  {
+    "revision": "3501762d80f76445ae5c3a475cabee21",
+    "url": "/sstl/static/media/mf_2.3501762d.png"
   },
   {
     "revision": "842e443051c56b99bbd48682bd1e3d3f",
@@ -4992,6 +5096,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/prince of walesshipyardicon.c4fd93a5.png"
   },
   {
+    "revision": "232bec0314a047103214ca676916d50e",
+    "url": "/sstl/static/media/princetonbanner.232bec03.png"
+  },
+  {
+    "revision": "2d4919f665774c5ea8787ff8cb7bfc8e",
+    "url": "/sstl/static/media/princetonicon.2d4919f6.png"
+  },
+  {
+    "revision": "de1210e49a380de6d85e1c0e16f3dba0",
+    "url": "/sstl/static/media/princetonshipyardicon.de1210e4.png"
+  },
+  {
     "revision": "bda05faf8765cc53cba5207a63601740",
     "url": "/sstl/static/media/prinz eugenbanner.bda05faf.png"
   },
@@ -5050,6 +5166,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67b146f3d666362f6642963b2d7b1356",
     "url": "/sstl/static/media/quadruple_356mm_bl_14__mk_vii.67b146f3.png"
+  },
+  {
+    "revision": "67b146f3d666362f6642963b2d7b1356",
+    "url": "/sstl/static/media/quadruple_356mm_bl_14quot_mk_vii.67b146f3.png"
   },
   {
     "revision": "b51b0d51c68c86e0e0388e04b7ebda59",
@@ -5222,6 +5342,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8d64d043406ee78adbebcf206b0dd60",
     "url": "/sstl/static/media/rodneyshipyardicon.a8d64d04.png"
+  },
+  {
+    "revision": "109fbc925d7a4a82cb5a8ea61ed8d941",
+    "url": "/sstl/static/media/roon µbanner.109fbc92.png"
+  },
+  {
+    "revision": "54ece13665bd2bd9e06398269a29ca0f",
+    "url": "/sstl/static/media/roon µicon.54ece136.png"
+  },
+  {
+    "revision": "462d5ec3d1abb2528d5092e53d4a567d",
+    "url": "/sstl/static/media/roon µshipyardicon.462d5ec3.png"
   },
   {
     "revision": "012decab63022ebe3a46f6dbc5f1cd49",
@@ -5536,6 +5668,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/shiranuibanner.a5311aee.png"
   },
   {
+    "revision": "6fb7c36d00537f2b89330ef521a47936",
+    "url": "/sstl/static/media/shiranuiicon.6fb7c36d.png"
+  },
+  {
     "revision": "570e359500e90e09c3e9a883bd7eb603",
     "url": "/sstl/static/media/shiranuikaibanner.570e3595.png"
   },
@@ -5652,6 +5788,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/single_127mm_5_38_mk_30.6119d1f1.png"
   },
   {
+    "revision": "6119d1f19f61a2bfa77bb7d786a9984f",
+    "url": "/sstl/static/media/single_127mm_5quot38_mk_30.6119d1f1.png"
+  },
+  {
     "revision": "923696f738d2bf913e3396df3d4d9c6a",
     "url": "/sstl/static/media/single_127mm_sk_c34.923696f7.png"
   },
@@ -5696,6 +5836,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/single_76mm_3_50_caliber_gun.ec0ae1e1.png"
   },
   {
+    "revision": "ec0ae1e1fac1567e4b343b9a927d4635",
+    "url": "/sstl/static/media/single_76mm_3quot50_caliber_gun.ec0ae1e1.png"
+  },
+  {
     "revision": "988c21f9b69672f729b0245840ae4503",
     "url": "/sstl/static/media/single_90mm_highangle_model_1939.988c21f9.png"
   },
@@ -5714,6 +5858,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d875a5db9d1fec403d06073d6036d2c",
     "url": "/sstl/static/media/site_icon.9d875a5d.png"
+  },
+  {
+    "revision": "508c786c04dc55e816acbd59b91972ba",
+    "url": "/sstl/static/media/smallcaliber_naval_gun_parts_cargo.508c786c.png"
   },
   {
     "revision": "a179eed184e812bd0931b12e893c6a85",
@@ -5846,6 +5994,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5032fc935feea564278ea23a1d38bf6d",
     "url": "/sstl/static/media/steam_catapult.5032fc93.png"
+  },
+  {
+    "revision": "c2e23719b4cb35cde732f5d31194b4cf",
+    "url": "/sstl/static/media/sub_gears.c2e23719.png"
   },
   {
     "revision": "5cae7fc61b085827350ce3d91a34cc4a",
@@ -5988,6 +6140,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/tai yuanshipyardicon.ba1211ae.png"
   },
   {
+    "revision": "47a9c3d6b269fe5048c34ca92fe145e6",
+    "url": "/sstl/static/media/taihou µbanner.47a9c3d6.png"
+  },
+  {
+    "revision": "cdcf21b552f4d2002df11a06b3bc9e21",
+    "url": "/sstl/static/media/taihou µicon.cdcf21b5.png"
+  },
+  {
+    "revision": "ba8fb0e1fb3e37f3d3ed81c3460489bc",
+    "url": "/sstl/static/media/taihou µshipyardicon.ba8fb0e1.png"
+  },
+  {
     "revision": "8ebd74c031b45b030db1a630d7bf4bff",
     "url": "/sstl/static/media/taihoubanner.8ebd74c0.png"
   },
@@ -6046,6 +6210,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "78ec66cbc7eb2e8efbd27a06989c1c8c",
     "url": "/sstl/static/media/tartushipyardicon.78ec66cb.png"
+  },
+  {
+    "revision": "932bdefe66ec881a69ee5623cec71f50",
+    "url": "/sstl/static/media/tashkent µbanner.932bdefe.png"
+  },
+  {
+    "revision": "220e298ec97fff9727efbb1403d0f879",
+    "url": "/sstl/static/media/tashkent µicon.220e298e.png"
+  },
+  {
+    "revision": "5b7e2ffeebba16a16e89fa9c3342b84d",
+    "url": "/sstl/static/media/tashkent µshipyardicon.5b7e2ffe.png"
   },
   {
     "revision": "813904d58fe6bb088e4d7abaf365ec64",
@@ -6132,6 +6308,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/toneicon.781db655.png"
   },
   {
+    "revision": "7385846225541abf2fc622ef56fdbf63",
+    "url": "/sstl/static/media/torpedo_materials_cargo.73858462.png"
+  },
+  {
     "revision": "22ff3912bdcd3744640f786ade51f2e4",
     "url": "/sstl/static/media/tosabanner.22ff3912.png"
   },
@@ -6186,6 +6366,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "957fd60c7f6f19bc75f38423f899d313",
     "url": "/sstl/static/media/triple_203mm_8_55_mk_9.957fd60c.png"
+  },
+  {
+    "revision": "bee70063ddd615aae65eb112cf5b5e69",
+    "url": "/sstl/static/media/triple_203mm_8quot55_mk_15.bee70063.png"
+  },
+  {
+    "revision": "957fd60c7f6f19bc75f38423f899d313",
+    "url": "/sstl/static/media/triple_203mm_8quot55_mk_9.957fd60c.png"
   },
   {
     "revision": "2d652c6f09b23e8a73317732c12da76e",
@@ -6328,6 +6516,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/twin_203mm_bl_8__mk_viii.b6a97871.png"
   },
   {
+    "revision": "b6a97871bac38246e6eaa3c9b0a7f059",
+    "url": "/sstl/static/media/twin_203mm_bl_8quot_mk_viii.b6a97871.png"
+  },
+  {
     "revision": "45eec3d60574fe7d4b47152cbcc742d7",
     "url": "/sstl/static/media/twin_203mm_mle_1924.45eec3d6.png"
   },
@@ -6380,8 +6572,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/twin_381mm_bl_15__mk_ii.5eba5a48.png"
   },
   {
+    "revision": "fde5e08e61abb788524cb327c2cb07a3",
+    "url": "/sstl/static/media/twin_381mm_bl_15quot_mk_i.fde5e08e.png"
+  },
+  {
+    "revision": "5eba5a48211ec3f6684bd0b16336ea3c",
+    "url": "/sstl/static/media/twin_381mm_bl_15quot_mk_ii.5eba5a48.png"
+  },
+  {
     "revision": "1d896df326328628af80a9fea45a67bf",
     "url": "/sstl/static/media/twin_406mm_16_45_mk_5.1d896df3.png"
+  },
+  {
+    "revision": "1d896df326328628af80a9fea45a67bf",
+    "url": "/sstl/static/media/twin_406mm_16quot45_mk_5.1d896df3.png"
   },
   {
     "revision": "76ccba2f78b39c0c6be4081233151c9b",
@@ -6410,6 +6614,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "61520819933f5f000eccbc494cc83406",
     "url": "/sstl/static/media/twin_40mm_vickers__hi__shiki_type_91.61520819.png"
+  },
+  {
+    "revision": "61520819933f5f000eccbc494cc83406",
+    "url": "/sstl/static/media/twin_40mm_vickers_quothiquot_shiki_type_91.61520819.png"
   },
   {
     "revision": "eee716b138f39d6b2d5669e6c9b5b329",
@@ -6724,6 +6932,74 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sstl/static/media/vought_f4u_corsair_vf17_squadron.27d71e7a.png"
   },
   {
+    "revision": "0c044c50eff89b9f4d11c0d2cc24a5bb",
+    "url": "/sstl/static/media/w10_1.0c044c50.png"
+  },
+  {
+    "revision": "c83b1c9b099e4fad20ac6422750b5ab2",
+    "url": "/sstl/static/media/w10_2.c83b1c9b.png"
+  },
+  {
+    "revision": "7ed670b603bb61c6339cfa18056c15d4",
+    "url": "/sstl/static/media/w11_1.7ed670b6.png"
+  },
+  {
+    "revision": "8d9cba09389f599d76177bb086e7df1a",
+    "url": "/sstl/static/media/w11_2.8d9cba09.png"
+  },
+  {
+    "revision": "10dba3a10c10cce107f2b0469c9f3824",
+    "url": "/sstl/static/media/w12_1.10dba3a1.png"
+  },
+  {
+    "revision": "c66023299160fe4a785a179ae601d635",
+    "url": "/sstl/static/media/w12_2.c6602329.png"
+  },
+  {
+    "revision": "27614ebe4ca659b407c35df83912adcd",
+    "url": "/sstl/static/media/w2_1.27614ebe.jpg"
+  },
+  {
+    "revision": "828fa10171d1c311c92036344d1b5818",
+    "url": "/sstl/static/media/w3_1.828fa101.png"
+  },
+  {
+    "revision": "f7ed9b666822d6d7ff39dbf949c25d32",
+    "url": "/sstl/static/media/w3_2.f7ed9b66.png"
+  },
+  {
+    "revision": "7975bf36a82269645c01139171a677fc",
+    "url": "/sstl/static/media/w4_1.7975bf36.png"
+  },
+  {
+    "revision": "1483d58eea848bfff7cb196153497821",
+    "url": "/sstl/static/media/w4_2.1483d58e.png"
+  },
+  {
+    "revision": "f441de7cb33d821f5f7105e1150bb527",
+    "url": "/sstl/static/media/w5_1.f441de7c.png"
+  },
+  {
+    "revision": "5cc086a1a44046e8323cec9f5db79cd3",
+    "url": "/sstl/static/media/w5_2.5cc086a1.png"
+  },
+  {
+    "revision": "9378c534e7c2fb5e621ab9c7b4b02446",
+    "url": "/sstl/static/media/w6_1.9378c534.png"
+  },
+  {
+    "revision": "c63c85e7571cab47338823fdc466a562",
+    "url": "/sstl/static/media/w6_2.c63c85e7.png"
+  },
+  {
+    "revision": "6debc2357449b283ab3315451f5dc5f6",
+    "url": "/sstl/static/media/w7_1.6debc235.png"
+  },
+  {
+    "revision": "d4d3288ae1327bd173e85a32ac9e97bf",
+    "url": "/sstl/static/media/w7_2.d4d3288a.png"
+  },
+  {
     "revision": "e7e87787f174015d8e4ce5cf952997f4",
     "url": "/sstl/static/media/wakababanner.e7e87787.png"
   },
@@ -6826,6 +7102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a9b2d46bf0aa5716ba7beefd3c932853",
     "url": "/sstl/static/media/wichitashipyardicon.a9b2d46b.png"
+  },
+  {
+    "revision": "a21986f160d7c31744eee7c32debc77f",
+    "url": "/sstl/static/media/wsos_1.a21986f1.png"
   },
   {
     "revision": "4a252befefdd2566ce627dc054913289",
