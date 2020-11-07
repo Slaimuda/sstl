@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sstl/static/css/main.1c8e71cc.chunk.css",
-    "main.js": "/sstl/static/js/main.fbf18529.chunk.js",
-    "main.js.map": "/sstl/static/js/main.fbf18529.chunk.js.map",
+    "main.js": "/sstl/static/js/main.d647488f.chunk.js",
+    "main.js.map": "/sstl/static/js/main.d647488f.chunk.js.map",
     "runtime-main.js": "/sstl/static/js/runtime-main.57ebd913.js",
     "runtime-main.js.map": "/sstl/static/js/runtime-main.57ebd913.js.map",
     "static/css/2.fd971cca.chunk.css": "/sstl/static/css/2.fd971cca.chunk.css",
-    "static/js/2.ed77ac9d.chunk.js": "/sstl/static/js/2.ed77ac9d.chunk.js",
-    "static/js/2.ed77ac9d.chunk.js.map": "/sstl/static/js/2.ed77ac9d.chunk.js.map",
+    "static/js/2.362d43c9.chunk.js": "/sstl/static/js/2.362d43c9.chunk.js",
+    "static/js/2.362d43c9.chunk.js.map": "/sstl/static/js/2.362d43c9.chunk.js.map",
     "index.html": "/sstl/index.html",
-    "precache-manifest.54eabb3dc1cba3c29f296c6a9b3ab03e.js": "/sstl/precache-manifest.54eabb3dc1cba3c29f296c6a9b3ab03e.js",
+    "precache-manifest.0ae5a8f6f52dd4865de8685e3ba80574.js": "/sstl/precache-manifest.0ae5a8f6f52dd4865de8685e3ba80574.js",
     "service-worker.js": "/sstl/service-worker.js",
     "static/css/2.fd971cca.chunk.css.map": "/sstl/static/css/2.fd971cca.chunk.css.map",
     "static/css/main.1c8e71cc.chunk.css.map": "/sstl/static/css/main.1c8e71cc.chunk.css.map",
-    "static/js/2.ed77ac9d.chunk.js.LICENSE.txt": "/sstl/static/js/2.ed77ac9d.chunk.js.LICENSE.txt",
+    "static/js/2.362d43c9.chunk.js.LICENSE.txt": "/sstl/static/js/2.362d43c9.chunk.js.LICENSE.txt",
     "static/media/100150_aviation_gasoline.png": "/sstl/static/media/100150_aviation_gasoline.82316982.png",
     "static/media/102mm_aa_qf_4__mk_v.png": "/sstl/static/media/102mm_aa_qf_4__mk_v.dce69267.png",
     "static/media/127mm_aa_m2_browning.png": "/sstl/static/media/127mm_aa_m2_browning.4743fd30.png",
@@ -235,6 +235,7 @@
     "static/media/bf_5.png": "/sstl/static/media/bf_5.1785aa3f.png",
     "static/media/bf_6.jpg": "/sstl/static/media/bf_6.8b4a91cd.jpg",
     "static/media/bg.jpg": "/sstl/static/media/bg.4b2013a7.jpg",
+    "static/media/bg_repeat.jpg": "/sstl/static/media/bg_repeat.ecd22456.jpg",
     "static/media/biloxibanner.png": "/sstl/static/media/biloxibanner.6d513ca6.png",
     "static/media/biloxiicon.png": "/sstl/static/media/biloxiicon.0ce962b2.png",
     "static/media/biloxishipyardicon.png": "/sstl/static/media/biloxishipyardicon.d2bbd242.png",
@@ -485,6 +486,10 @@
     "static/media/fairey_swordfish.png": "/sstl/static/media/fairey_swordfish.4449df7c.png",
     "static/media/fairey_swordfish_818_squadron.png": "/sstl/static/media/fairey_swordfish_818_squadron.65ffee36.png",
     "static/media/fairey_swordfish_mk_iiasv_asw.png": "/sstl/static/media/fairey_swordfish_mk_iiasv_asw.95d1c15b.png",
+    "static/media/fb_1.png": "/sstl/static/media/fb_1.3d49b4e8.png",
+    "static/media/fb_2.png": "/sstl/static/media/fb_2.25548901.png",
+    "static/media/fb_3.png": "/sstl/static/media/fb_3.05cc3f7d.png",
+    "static/media/fb_4.png": "/sstl/static/media/fb_4.c077e6ac.png",
     "static/media/fijibanner.png": "/sstl/static/media/fijibanner.e43fd38e.png",
     "static/media/fijiicon.png": "/sstl/static/media/fijiicon.da19bd0f.png",
     "static/media/fijishipyardicon.png": "/sstl/static/media/fijishipyardicon.50c6efd0.png",
@@ -1378,6 +1383,7 @@
     "static/media/saratogabanner.png": "/sstl/static/media/saratogabanner.651a641a.png",
     "static/media/saratogaicon.png": "/sstl/static/media/saratogaicon.ff2cd4a4.png",
     "static/media/saratogakaibanner.png": "/sstl/static/media/saratogakaibanner.69f0cf95.png",
+    "static/media/saratogakaichibi.png": "/sstl/static/media/saratogakaichibi.6cd76ffa.png",
     "static/media/saratogakaiicon.png": "/sstl/static/media/saratogakaiicon.59814582.png",
     "static/media/saratogakaishipyardicon.png": "/sstl/static/media/saratogakaishipyardicon.bd73d1be.png",
     "static/media/saratogashipyardicon.png": "/sstl/static/media/saratogashipyardicon.3521c815.png",
@@ -1885,8 +1891,8 @@
   "entrypoints": [
     "static/js/runtime-main.57ebd913.js",
     "static/css/2.fd971cca.chunk.css",
-    "static/js/2.ed77ac9d.chunk.js",
+    "static/js/2.362d43c9.chunk.js",
     "static/css/main.1c8e71cc.chunk.css",
-    "static/js/main.fbf18529.chunk.js"
+    "static/js/main.d647488f.chunk.js"
   ]
 }
